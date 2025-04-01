@@ -36,6 +36,8 @@ shape_grid = [
     [0,0,0,0,0,0,0,0],
     ...
 ] 
+
+
 => 00,01,...,76,77 through inputs
 => 0, 0, 1 through outputs with the third bit referring to a triangle.
 
