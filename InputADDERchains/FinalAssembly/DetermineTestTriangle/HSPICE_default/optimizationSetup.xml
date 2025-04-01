@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!--Created by Custom Compiler (TM), build , on Fri Mar 28 15:16:43 2025-->
+<file-format version="1.0" name="stateCategory">
+ <object version="1" name="optimizationSetup" type="saOptimizationSetup">
+  <collection name="csoAreas"/>
+  <collection name="csoObjectives"/>
+  <object version="1" name="csoOptions" type="saDpoOptions">
+   <attribute name="csoJobClass" value="simulation" type="giString"/>
+   <attribute name="csoRunName" value="opt_history_1" type="giString"/>
+   <attribute name="designMeetSpecs" value="1" type="giString"/>
+   <attribute name="enableCornerReductionFlag" value="0" type="giBoolean"/>
+   <attribute name="enableInitialValueFlag" value="0" type="giBoolean"/>
+   <attribute name="maxIterations" value="" type="giString"/>
+   <attribute name="maxRunTime" value="" type="giString"/>
+   <attribute name="maximumTimesThanAverage" value="50" type="giString"/>
+   <attribute name="maximumWallTime" value="" type="giString"/>
+   <attribute name="noImprovementIterations" value="100" type="giString"/>
+   <attribute name="optimizerEngine" value="Global" type="giString"/>
+   <attribute name="removeInvalidParamsFlag" value="0" type="giBoolean"/>
+   <attribute name="rerunAbnormalSampleFlag" value="1" type="giBoolean"/>
+   <attribute name="rerunAbnormalSimFlag" value="1" type="giBoolean"/>
+   <attribute name="topBestDesigns" value="10" type="giString"/>
+  </object>
+  <collection name="csoParams"/>
+  <attribute name="enabled" value="1" type="giBoolean"/>
+ </object>
+</file-format>

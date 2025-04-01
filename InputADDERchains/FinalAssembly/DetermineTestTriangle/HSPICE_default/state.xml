@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!--Created by Custom Compiler (TM), build , on Fri Mar 28 15:16:43 2025-->
+<file-format version="1.0" name="stateData">
+ <attribute name="dcop_splitted" value="0" type="giBoolean"/>
+ <attribute name="description" value="" type="giString"/>
+ <attribute name="design" value="Personal/DetermineTestTriangle/schematic" type="dmCellView"/>
+ <attribute name="enabled" value="1" type="giBoolean"/>
+ <attribute name="enabledJobClass" value="0" type="giBoolean"/>
+ <attribute name="migratedSimulator" value="" type="giString"/>
+ <attribute name="name" value="HSPICE_default" type="giString"/>
+ <attribute name="openaccessState" value="Personal/DetermineTestTriangle/HSPICE_default" type="dmCellView"/>
+ <attribute name="simulator" value="HSPICE" type="giString"/>
+ <comment></comment>
+ <resultsDir>~/simulation</resultsDir>
+ <enableTestbenchHistory>0</enableTestbenchHistory>
+ <integration version="1"/>
+</file-format>
