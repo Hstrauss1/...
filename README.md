@@ -1,3 +1,7 @@
+NOTE: This was made using Synopsys Custom Compiler as part of an academic environment.  
+> I am not fully aware of the licensing terms or distribution rules associated with this compiler.  
+> If you are affiliated with Synopsys or have information about usage rights, please feel free to reach out. My email will be at the bottom.
+
 # 8×8 Shape Classifier 
 <img width="852" alt="Screenshot 2025-04-01 at 9 52 00 AM" src="https://github.com/user-attachments/assets/07700e1d-fa4a-4569-ad74-e1ac181228ea" />
 
@@ -50,3 +54,10 @@ Add diagonal edge detection
 
 
 There are several ...T or ...Test files this is verification testbenches with setup DC,GND,Cap, and or Vpat basic analog blocks. These basic analog blocks I did not create they were given default to our version of Synopsys so I am not posting them. 
+
+
+
+
+
+
+Contact me @ Hstrauss@scu.edu
