@@ -1,4 +1,5 @@
 # 8×8 Shape Classifier 
+<img width="852" alt="Screenshot 2025-04-01 at 9 52 00 AM" src="https://github.com/user-attachments/assets/07700e1d-fa4a-4569-ad74-e1ac181228ea" />
 
 This project implements a lightweight, rule-based classifier for detecting basic geometric shapes — **triangles, squares, and circles** — on an 8×8 pixel grid.
 
