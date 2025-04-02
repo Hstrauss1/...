@@ -66,7 +66,9 @@ Transient Output:
 
 Known Issues:
 I understand some of the PNGS are poor for the larger combinational logic diagrams Im looking into how to improve these.
-Not all the LAYOUTs are completed Im a working on these and will post them when done.
+
+Not all the LAYOUTs are completed Im working on these and will post them when done.
+
 Add diagonal edge detection
 
 
