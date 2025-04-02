@@ -6,7 +6,9 @@ NOTE: This was made using Synopsys Custom Compiler as part of an academic enviro
 I used ***SAED_PDK_90*** for the nmos and pmos instances. I specifically used nmos_4t and pmost_4t versions with 0.4um and 1.2um widths and 0.1um lengths respectively. designed for a 1.2v standard.
 
 # 8×8 Shape Classifier 
-<img width="852" alt="Screenshot 2025-04-01 at 9 52 00 AM" src="https://github.com/user-attachments/assets/07700e1d-fa4a-4569-ad74-e1ac181228ea" />
+
+<img width="1010" alt="determine" src="https://github.com/user-attachments/assets/eaefc91e-1ef5-4324-b612-54ef5ff80f5e" />
+
 
 This project implements a lightweight, rule-based classifier for detecting basic geometric shapes — **triangles, squares, and circles** — on an 8×8 pixel grid.
 
