@@ -51,6 +51,18 @@ shape_grid = [
 => 00,01,...,76,77 through inputs
 => 0, 0, 1 through outputs with the third bit referring to a triangle.
 
+### Example Usage #2
+
+This is pulled from DetermineTest as a circle test.
+
+Visualized Input:
+
+<img width="756" alt="Screenshot 2025-03-28 at 5 25 49 PM" src="https://github.com/user-attachments/assets/6b932155-d22c-409d-b8c3-89d437752ef5" />
+
+Transient Output:
+
+<img width="1512" alt="Screenshot 2025-03-28 at 5 32 52 PM" src="https://github.com/user-attachments/assets/f1886892-f899-4374-8011-e1f882a5d404" />
+
 
 Known Issues:
 I understand some of the PNGS are poor for the larger combinational logic diagrams Im looking into how to improve these.
